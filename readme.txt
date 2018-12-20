@@ -23,3 +23,7 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
+
+
+$ git config --global user.name "Your Name"
+$ git config --global user.email "email@example.com"
